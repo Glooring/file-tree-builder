@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.pseud": "plaintext",
+        "thread": "cpp",
+        "atomic": "cpp"
+    }
+}
