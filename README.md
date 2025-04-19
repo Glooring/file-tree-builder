@@ -165,7 +165,10 @@ pyinstaller ^
 
 ## Download Release
 
-Download the ready‑to‑run version from the [Releases](https://github.com/yourusername/yourrepo/releases) tab.
+Download the ready‑to‑run version from the [Releases tab](https://github.com/Glooring/file-tree-builder/releases/tag/v1.0.0)  
+or directly download the `.zip` archive:
+
+**[⬇ FileTreeBuilder.zip](https://github.com/Glooring/file-tree-builder/releases/download/v1.0.0/FileTreeBuilder.zip)**
 
 ```
 FileTreeBuilder.zip
