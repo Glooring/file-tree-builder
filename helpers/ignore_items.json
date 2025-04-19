@@ -1,0 +1,22 @@
+[
+    ".git",
+    ".venv",
+    "__pycache__",
+    "node_modules",
+    "dist",
+    "build",
+    "Library",
+    "_internal",
+    "Assets",
+    ".vs",
+    "assets",
+    "_next",
+    "media",
+    "s",
+    "coin",
+    "Lib",
+    "*.egg-info",
+	"outputs",
+	"Outputs"
+  ]
+  
